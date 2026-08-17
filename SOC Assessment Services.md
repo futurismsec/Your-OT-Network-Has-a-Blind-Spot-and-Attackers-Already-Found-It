@@ -59,7 +59,7 @@ Where appropriate, we run tabletop exercises or controlled simulations to observ
 
 6. Reporting & Roadmap
 
-You receive a detailed report benchmarking your SOC against industry maturity models, along with a prioritized, practical roadmap — not a 100-item wish list, but a sequenced plan your team can actually execute.
+You receive a detailed report benchmarking your SOC against industry maturity models, along with a prioritized, practical roadmap  not a 100-item wish list, but a sequenced plan your team can actually execute.
 
 What You Get From a SOC Effectiveness Assessment
 A clear maturity rating across people, process, and technology
