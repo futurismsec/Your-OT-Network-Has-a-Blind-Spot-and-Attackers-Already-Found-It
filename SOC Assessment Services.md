@@ -1,8 +1,9 @@
-                                      ****Is Your Security Operations Center Actually Working?****
+                                           Is Your Security Operations Center Actually Working?
 
 Every organization with a Security Operations Center believes it's protected. Alerts are triaged, dashboards are monitored, and incidents get logged. But activity isn't the same as effectiveness. Many SOCs are quietly underperforming  missing real threats behind a wall of noise, running on outdated playbooks, or staffed by analysts who are burned out and under resourced. The gap between a SOC that looks operational and one that's actually defending the business often only becomes visible after a breach.
 
-Futurism Security's SOC assessment services are built to close that gap before it costs you. We conduct a structured, evidence-based review of your SOC's people, processes, and technology to answer the question that matters most: if a real attacker came after you today, would your SOC catch it in time?
+Futurism Security's SOC assessment services are built to close that gap before it costs you. 
+We conduct a structured, evidence-based review of your SOC's people, processes, and technology to answer the question that matters most: if a real attacker came after you today, would your SOC catch it in time?
 
 What Is a SOC Assessment?
 
@@ -76,4 +77,5 @@ Turn Assessment Into Action
 
 A SOC assessment is only valuable if it leads somewhere. Futurism Security doesn't hand you a static PDF and disappear  we work with your team to translate findings into a realistic improvement plan, and we can support implementation directly, whether that means tuning detection content, redesigning workflows, or helping you build the business case for additional investment.
 
-Ready to find out where your SOC really stands? Contact Futurism Security to schedule a SOC assessment and get a clear, actionable path to a stronger, more resilient security operation.
+Ready to find out where your SOC really stands? 
+Contact Futurism Security to schedule a SOC assessment and get a clear, actionable path to a stronger, more resilient security operation.
