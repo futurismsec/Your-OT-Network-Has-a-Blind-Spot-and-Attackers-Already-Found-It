@@ -1,4 +1,4 @@
-Is Your Security Operations Center Actually Working?
+                                      **Is Your Security Operations Center Actually Working?**
 
 Every organization with a Security Operations Center believes it's protected. Alerts are triaged, dashboards are monitored, and incidents get logged. But activity isn't the same as effectiveness. Many SOCs are quietly underperforming  missing real threats behind a wall of noise, running on outdated playbooks, or staffed by analysts who are burned out and under resourced. The gap between a SOC that looks operational and one that's actually defending the business often only becomes visible after a breach.
 
